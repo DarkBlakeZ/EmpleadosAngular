@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "empleados-ac457": {
+      "hosting": {
+        "empleados": [
+          "empleados-ac457"
+        ]
+      }
+    }
+  }
+}
